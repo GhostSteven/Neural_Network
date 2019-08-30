@@ -1,2 +1,2 @@
 # Newral_Network
-Everything about the NN.
+In this repository, I upload all the projects and some examples about NN.
