@@ -1,7 +1,6 @@
 from __future__ import print_function, division
 import tensorflow as tf
 import numpy as np 
-from tensorflow.contrib import rnn
 from tensorflow.examples.tutorials.mnist import input_data
 from optparse import OptionParser
 
